@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\ivanv\\silverphoenix\\fps-zombie-west\\fpszombie\\intermediate\\source\\myproject3.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ivanv\\silverphoenix\\fps-zombie-west\\fpszombie\\intermediate\\build\\win64\\myproject3\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\ivanv\\silverphoenix\\fps-zombie-west\\fpszombie\\intermediate\\build\\win64\\unrealgame\\development\\myproject3\\definitions.myproject3.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ivanv/SilverPhoenix/FPS-zombie-west/FPSZombie/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ivanv/SilverPhoenix/FPS-zombie-west/FPSZombie/Content/Levels/MainWorld.umap",
+				"C:/Users/ivanv/SilverPhoenix/FPS-zombie-west/FPSZombie/Content/Levels/MenuWorld.umap",
 				"C:/Users/ivanv/Documents/Unreal Projects/MyProject3/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
