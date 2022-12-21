@@ -1,1 +1,41 @@
-[1217/193253.596:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1220/202536.063:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1220/214900.749:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1220/214900.755:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1220/214900.755:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1220/214900.756:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1220/214900.756:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[1220/214900.756:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[1220/214900.756:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[1220/214900.757:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[1220/214900.758:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1220/214900.758:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1220/214900.758:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1220/214900.758:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1220/214900.766:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1220/214922.854:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1220/214922.855:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1220/214958.514:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1220/214958.515:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1220/221805.911:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)

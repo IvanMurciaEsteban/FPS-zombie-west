@@ -1,2 +1,19 @@
-2022/12/11-19:48:34.147 4cf0 Creating DB C:/Users/ivanv/SilverPhoenix/FPS-zombie-west/FPSZombie/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2022/12/11-19:48:34.462 4cf0 Reusing MANIFEST C:/Users/ivanv/SilverPhoenix/FPS-zombie-west/FPSZombie/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/20-21:50:11.748 9c0 Reusing MANIFEST C:/Users/ivanv/SilverPhoenix/FPS-zombie-west/FPSZombie/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/20-21:50:11.750 9c0 Recovering log #3
+2022/12/20-21:50:11.751 9c0 Reusing old log C:/Users/ivanv/SilverPhoenix/FPS-zombie-west/FPSZombie/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/12/20-21:50:15.441 2720 Level-0 table #5: started
+2022/12/20-21:50:15.449 2720 Level-0 table #5: 5375 bytes OK
+2022/12/20-21:50:15.457 2720 Delete type=0 #3
+2022/12/20-21:50:15.458 2720 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/20-22:18:07.586 12d8 Level-0 table #7: started
+2022/12/20-22:18:07.591 12d8 Level-0 table #7: 4303 bytes OK
+2022/12/20-22:18:07.595 12d8 Delete type=0 #4
+2022/12/20-22:18:07.595 12d8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/12/20-22:18:07.595 12d8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xe0\x82\xd2\x14SxB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 263 : 1
+2022/12/20-22:18:07.595 12d8 Compacting 1@1 + 1@2 files
+2022/12/20-22:18:07.602 12d8 Generated table #8@1: 38 keys, 1031 bytes
+2022/12/20-22:18:07.602 12d8 Compacted 1@1 + 1@2 files => 1031 bytes
+2022/12/20-22:18:07.606 12d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/12/20-22:18:07.606 12d8 Delete type=2 #5
+2022/12/20-22:18:07.606 12d8 Delete type=2 #7
+2022/12/20-22:18:07.607 12d8 Manual compaction at level-1 from '\x00\x03\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xe0\x82\xd2\x14SxB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 263 : 1 .. (end); will stop at (end)
